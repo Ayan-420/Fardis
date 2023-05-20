@@ -170,9 +170,9 @@ S*S     S*S    S*S  S*S    S%S  S*S   .S*S  S*S    .S*P
 S*S     S*S    S*S  S*S    S&S  S*S_sdSSS   S*S  sSS*S   
 S*S     SSS    S*S  S*S    SSS  SSS~YSSY    S*S  YSS'    
 SP             SP   SP                      SP           
-Y              Y    Y                       Y            
-                                                         
-   """)              
+Y              Y    Y                       Y                                                                     
+
+             
 \033[1;94m       [+]===============================================[+]
 \033[1;94m       [+]        CREATED BY   :  Frdis              \033[1;94m[+]
 \033[1;94m       [+]        ON GITHUB    :  Ayan-420             \033[1;94m[+]
